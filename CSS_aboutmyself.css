@@ -1,0 +1,25 @@
+h1 {
+	color: #17A589;
+	font-family: "Segoe UI";
+	font-size: 45px;
+	text-shadow: 2px 2px grey;
+	
+}
+li {
+	color: #138D75 ;
+	font-family: "Verdana";
+	font-size: 20px;
+	
+}
+
+div {
+	border: 5px solid white;
+	background-color: white;
+
+}
+
+body {
+	background: url(pokemon-go-hd-po-2048x1152.jpg); 
+	background-repeat: no-repeat;   /*Prevents BG image from being tiled */
+	background-size: cover;    /*Stretches the BG image */
+}

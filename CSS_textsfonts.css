@@ -1,0 +1,15 @@
+#par1 {
+	font-family: Arial;
+
+}
+
+#par2 {
+	font-family: Georgia;
+
+}
+
+span{
+	color: blue;
+	font-size: 2.0em;   /*Font size is TWICE the size of <p>, which is the parent element */
+
+}

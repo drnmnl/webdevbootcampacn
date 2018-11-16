@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color: orange;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+.visitor {
+	font-size: 40px;
+}
+
+.prize {
+	font-size: 20px;
+}
+
+#bttn {
+	font-size: 50px;
+	background-color:  blue;
+	text-decoration: underline; 
+}

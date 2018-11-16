@@ -1,0 +1,29 @@
+h1 {
+	color: white;
+	background-size: 60px;
+	text-shadow: 2px 3px gray;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
+
+body {
+	background: url(https://i.kym-cdn.com/photos/images/newsfeed/001/384/531/8ed.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: center;
+
+}
+
+h3 {
+	color: white;
+}

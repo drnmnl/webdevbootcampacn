@@ -1,0 +1,29 @@
+body {
+	background-color: orange;
+}
+
+
+#todolist {
+	font-family: "Verdana";
+	color: #616A6B;
+	font-size: 20px
+}
+
+#towatch {
+	font-family: "Verdana";
+	color: #CB4335;
+	font-size: 20px;
+}
+
+.le {
+	text-decoration: line-through;
+	text-shadow: 1px 1px white;
+	font-size: 30px;
+}
+
+/*nth of type selector */
+
+ul:nth-of-type(3) {
+	background: purple;
+}
+
